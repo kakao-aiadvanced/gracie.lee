@@ -33,11 +33,10 @@ Bandwidth: 전체 응답의 처리 속도
 → 지시 → 피드백 → 반복(iteration)은 필수
 
 📚 참고 자료 (믿을 수 있는 공식 자료만)
-OpenAI 공식 가이드
+OpenAI Official guide https://platform.openai.com/docs/guides/prompt-engineering/
+Best practices https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
+Microsoft guide https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions
 
-OpenAI Best Practices
-
-Microsoft Advanced Prompt Engineering
 
 ⚠️ 유튜브에 떠도는 비공식 가이드는 신뢰성 떨어질 수 있음. 위 링크만 참고할 것!
 
